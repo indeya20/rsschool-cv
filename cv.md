@@ -15,7 +15,7 @@
 **_Responsibiltites_**
    - Providing Resolution on 2nd line tech support issues with **Vonage platform (UCaaS & CCaaS)** along with Salesforce (CRM)
    - Analysis of Network trace information to troubleshoot Telephony issues.
-   - Manage individual work streams using Salesforce (CRM)
+   - Manage individual work streams using `Salesforce (CRM)`
    - Maintaining a good working relationships with clients to promote high level of customer experience.
 
 **_Customer Service Executive | OPS Talent (Part Time) April 2021 till now._**
@@ -30,10 +30,10 @@
   - Lodging fault/complaints about mobile device used.
 
 **_Senior Technical Support Consultant | Sutherland Global Services - Jan 2010 to May 2012_**
-  + International Voice process supporting the US customers on Installation, **Virus removal and Troubleshooting of Anti-Virus software remotely**, on call and     chat support and also handled escalation calls.
+  + International Voice process supporting the US customers on Installation, **Virus removal and Troubleshooting of Anti-Virus software remotely**, on call       and chat support and also handled escalation calls.
 
 **_Achievements during the work period_**
-  - Platinum attendance award of continued presence for 100 scheduled working days, outstanding performance award for continues 3 months (September, October     & November 2010).
+  - Platinum attendance award of continued presence for **100 scheduled working days, outstanding performance award for continues 3 months (September,           October & November 2010).**
 
 ## COMPUTER SKILLS
 
