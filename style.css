@@ -1,0 +1,83 @@
+.center{
+     margin: auto;
+        width:50%;
+        background-color: rgb(248, 242, 248);
+               
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: neutral gray ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.top-nav {
+    overflow: hidden;
+    
+  }
+  
+  .top-nav a {
+    
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 15px;
+    
+  }
+  
+  .top-nav a:hover {
+    background-color: rgb(255, 250, 250);
+    color: black;
+  }
+  
+  .top-nav a {
+    background-color: #aa0494;
+    color: white;
+  }
+
+ul{
+    list-style: none;
+    font-size: 20px;
+   
+}
+
+img{
+    width: 150px;
+    height: 200px;
+    align-items: left;
+}
+.myname{
+    text-align: top;
+    font-size: 25px;
+    
+}
+#code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 2px;
+    font-size: 15px;
+  }
+
+  .footer{
+      position: relative;
+          background-color: #d4a3ce;
+      color: rgb(14, 13, 13);
+      font-weight: 100px;
+      text-align: center;
+      margin-top: -1px;
+      clear: both;
+   }
+   .footer a {
+    text-align: left;
+   }
+  #schoollogo{
+    width:100px;
+    height: 50px;
+    
+  }
