@@ -1,1 +1,1 @@
-https://github.com/indeya20/rsschool-cv/tree/rsschool-cv-html
+https://indeya20.github.io/rsschool-cv/
